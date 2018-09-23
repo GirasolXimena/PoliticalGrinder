@@ -19,6 +19,7 @@ class App extends Component {
   }
 
   render() {
+    console.log()
     return (
       <ReactiveBase
         app="car-store"
