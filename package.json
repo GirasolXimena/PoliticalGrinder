@@ -7,7 +7,11 @@
     "nodemon": "^1.18.4",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "^1.1.5"
+    "@appbaseio/reactivesearch": "^2.9.0",
+    "auth0-js": "^9.7.3",
+    "history": "^4.7.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
